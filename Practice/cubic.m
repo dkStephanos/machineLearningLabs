@@ -1,0 +1,1 @@
+function [y1, y2] = why(x)  y1 = x.^3  y2 = x.^2endfunction
