@@ -1,0 +1,6 @@
+2.3a)
+fminunc essentially does the same thing as gradient descent, and gives us the optimal
+theta values for a data set such that we can use those theta values to make accurate predictions.
+fminunc has some advantages over gradient descent, namely, that it is simpilar to use.
+There is no coding of loops, picking of a learning rate or setting number of iterations.
+Essentially, all we have to do is provide a cost function and gradient, and we're done.
